@@ -8,7 +8,9 @@
 }
 
 body, html {
-    background-image: linear-gradient(to top, #9a0d41, rgb(125, 11, 47));
+    background-image: url('../imagens/fundo-storie.png');
+    background-size: cover;
+    background-position: left center;
     height: 100%;
     width: 100vw;
     overflow-x: hidden;
