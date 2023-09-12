@@ -9,16 +9,15 @@
 
 body, html {
     background-image: linear-gradient(to top, #9a0d41, rgb(125, 11, 47));
-    height: 1000px;
-    width: 100vh;
-    
+    height: 100%;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 main {
     background: rgba(0, 0, 0, 0.073);
-    position: relative;
-    width: 70vw;
-    height: 100vh;
+    width: 72vw;
+    height: 100%;
     transform: translate(20%, 0%);
 }
 
@@ -29,18 +28,36 @@ main {
     }
 
 #imgmulher {
-    width: 100px;
-    height: 100px;
-    transform: translate(200px, 0px);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    transform: translate(105%, -175%);
 }
 
 #titulo1 {
     color: white;
+    transform: translate(46%, 210%);
 }
 
 #paragrafo1 {
-    background-color: rgba(255, 166, 0, 0.413);
+    padding: 80px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.23);
+    color: rgb(0, 0, 0);
+    text-align: left;
+    transform: translate(0%, 0%);
+}
+
+#titulo2 {
     color: white;
-    text-align: justify;
-    transform: translate(0%, -60%);
+    transform: translate(46%, 210%);
+}
+
+#paragrafo2 {
+    padding: 80px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.23);
+    color: rgb(0, 0, 0);
+    text-align: left;
+    transform: translate(0%, 0%);
 }
