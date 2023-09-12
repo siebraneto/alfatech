@@ -51,9 +51,10 @@ main {
 
 #paragrafo1 {
     font-size: 50%;
-    padding: 5%;
+    padding: 2%;
     color: rgb(0, 0, 0);
     text-align: justify;
+    text-indent: 1em;
     transform: translate(0%, 0%);
 }
 
