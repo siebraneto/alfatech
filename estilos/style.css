@@ -4,8 +4,43 @@
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
 body, html {
+    background-image: linear-gradient(to top, #9a0d41, rgb(125, 11, 47));
+    height: 1000px;
+    width: 100vh;
     
+}
+
+main {
+    background: rgba(0, 0, 0, 0.073);
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    transform: translate(20%, 0%);
+}
+
+#logotipo {
+    width: 50%;
+    height: 50%;
+    transform: translate(50%, -30%);
+    }
+
+#imgmulher {
+    width: 100px;
+    height: 100px;
+    transform: translate(200px, 0px);
+}
+
+#titulo1 {
+    color: white;
+}
+
+#paragrafo1 {
+    background-color: rgba(255, 166, 0, 0.413);
+    color: white;
+    text-align: justify;
+    transform: translate(0%, -60%);
 }
