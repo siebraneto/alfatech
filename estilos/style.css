@@ -30,17 +30,17 @@ main {
 .artigo {
     background-color: rgba(255, 255, 255, 0.722);
     border-radius: 10px;
-    width: 66.9%;
-    height: 39%;
-    transform: translate(43%, -178%);
+    width: 72%;
+    height: 10%;
+    transform: translate(34%, -190%);
 }
 
 #imgmulher {
     background-color: white;
     border-radius: 10px;
     margin: 10px;
-    width: 25.4%;
-    height: 39.2%;
+    width: 20%;
+    height: 10%;
     transform: translate(9.5%, -72%);
 }
 
@@ -50,23 +50,10 @@ main {
 }
 
 #paragrafo1 {
-    padding: 50px;
-    margin: 10px;
+    font-size: 50%;
+    padding: 5%;
     color: rgb(0, 0, 0);
-    text-align: left;
+    text-align: justify;
     transform: translate(0%, 0%);
 }
 
-#titulo2 {
-    color: white;
-    transform: translate(46%, 210%);
-}
-
-#paragrafo2 {
-    padding: 80px;
-    margin: 10px;
-    background-color: rgba(255, 255, 255, 0.23);
-    color: rgb(0, 0, 0);
-    text-align: left;
-    transform: translate(0%, 0%);
-}
