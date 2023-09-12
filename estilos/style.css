@@ -30,17 +30,17 @@ main {
 .artigo {
     background-color: rgba(255, 255, 255, 0.722);
     border-radius: 10px;
-    width: 72%;
-    height: 10%;
-    transform: translate(34%, -190%);
+    width: 45%;
+    height: 20%;
+    transform: translate(104%, -182%);
 }
 
 #imgmulher {
     background-color: white;
     border-radius: 10px;
     margin: 10px;
-    width: 20%;
-    height: 10%;
+    width: 40%;
+    height: 20%;
     transform: translate(9.5%, -72%);
 }
 
@@ -51,7 +51,7 @@ main {
 
 #paragrafo1 {
     font-size: 50%;
-    padding: 2%;
+    padding: 5%;
     color: rgb(0, 0, 0);
     text-align: justify;
     text-indent: 1em;
