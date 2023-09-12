@@ -24,9 +24,9 @@ main {
 }
 
 #logotipo {
-    width: 50%;
-    height: 50%;
-    transform: translate(50%, -30%);
+    width: 300px;
+    height: 300px;
+    transform: translate(10%, -30%);
     }
 
 .artigo {
@@ -42,13 +42,8 @@ main {
     border-radius: 10px 0px 0px 10px;
     margin: 10px;
     width: 40%;
-    height: 20%;
+    height: 20.1%;
     transform: translate(9.9%, -22%);
-}
-
-#titulo1 {
-    color: white;
-    transform: translate(46%, 210%);
 }
 
 #paragrafo1 {
@@ -59,4 +54,7 @@ main {
     text-indent: 1em;
     transform: translate(0%, 0%);
 }
+
+
+
 
