@@ -29,7 +29,7 @@ main {
 
 .artigo {
     background-color: rgba(255, 255, 255, 0.722);
-    border-radius: 10px;
+    border-radius: 0px 10px 10px 0px;
     width: 45%;
     height: 20%;
     transform: translate(104%, -182%);
@@ -37,11 +37,11 @@ main {
 
 #imgmulher {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 10px 0px 0px 10px;
     margin: 10px;
     width: 40%;
     height: 20%;
-    transform: translate(9.5%, -72%);
+    transform: translate(9.9%, -72.2%);
 }
 
 #titulo1 {
