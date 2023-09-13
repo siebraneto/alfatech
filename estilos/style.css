@@ -22,7 +22,7 @@ body, html {
 main {
     background: rgba(0, 0, 0, 0.203);
     width: 75vw;
-    height: 200vw%;
+    height: 200vw;
     transform: translate(15%, 0%);
 }
 
