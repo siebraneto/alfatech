@@ -34,13 +34,13 @@ main {
 }
 
 .artigo {
-    background-color: rgba(255, 235, 12, 0.5);
+    background-color: rgba(255, 235, 12, 0.062);
     border-radius: 0px 10px 10px 0px;
     margin-bottom: 50px;
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(10px, -70px);
+    transform: translate(7px, -70px);
 }
 
 #imgmulher {
@@ -53,11 +53,11 @@ main {
 }
 
 #paragrafo1 {
-    font-size: 70%;
+    font-size: 12px;
     color: rgb(37, 26, 0);
     text-align: justify;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-6%, -215px);
+    transform: translate(-6%, -220px);
 }
 
