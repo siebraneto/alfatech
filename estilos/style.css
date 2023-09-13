@@ -53,12 +53,12 @@ main {
 }
 
 #paragrafo1 {
-    font-size: 7px;
+    font-size: 15px;
     color: rgb(37, 26, 0);
     text-align: justify;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-6%, -180px);
+    transform: translate(-6%, -160px);
 }
 
 .artigo2 {
@@ -81,12 +81,12 @@ main {
 }
 
 #paragrafo2 {
-    font-size: 7px;
+    font-size: 15px;
     color: rgb(37, 26, 0);
     text-align: justify;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-54%, -170px);
+    transform: translate(-54%, -160px);
 }
 
 
