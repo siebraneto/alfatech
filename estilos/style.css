@@ -22,7 +22,7 @@ body, html {
 main {
     background: rgba(0, 0, 0, 0.203);
     width: 75vw;
-    height: 100vh;
+    height: 200vw%;
     transform: translate(15%, 0%);
 }
 
@@ -60,4 +60,33 @@ main {
     text-indent: 1em;
     transform: translate(-6%, -180px);
 }
+
+.artigo2 {
+    background-color: rgba(255, 235, 12, 0.56);
+    border-radius: 10px 0px 0px 10px;
+    margin-bottom: 50px;
+    width: 73vw;
+    height: 50vw;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
+    transform: translate(7px, -70px);
+}
+
+#imgmulher2 {
+    background-color: rgba(255, 255, 255, 0.589);
+    border-radius: 10px 0px 0px 10px;
+    width: 48%;
+    height: 100%;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
+    transform: translate(108%, 0%);
+}
+
+#paragrafo2 {
+    font-size: 7px;
+    color: rgb(37, 26, 0);
+    text-align: justify;
+    padding-left: 60%;
+    text-indent: 1em;
+    transform: translate(-54%, -170px);
+}
+
 
