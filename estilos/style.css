@@ -10,86 +10,54 @@
 body, html {
     background-image: url('../imagens/fundo-storie.png');
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: left center;
-    height: 100%;
+    background-attachment: fixed;
+    height: 100vh;
     width: 100vw;
     overflow-x: hidden;
+    
 }
 
 main {
-    background: rgba(0, 0, 0, 0.073);
-    width: 72vw;
+    background: rgba(0, 0, 0, 0.203);
+    width: 75vw;
     height: 100vh;
-    transform: translate(20%, 0%);
+    transform: translate(15%, 0%);
 }
 
 #logotipo {
     padding-top: 25px;
-    width: 228px;
-    height: 228px;
-    transform: translate(10%, -30%);
-    }
+    width: 50%;
+    height: 50%;
+    transform: translate(50%, -30%);
+}
 
 .artigo {
-    background-color: rgba(255, 255, 255, 0.722);
+    background-color: rgba(255, 235, 12, 0.5);
     border-radius: 0px 10px 10px 0px;
-    width: 45%;
-    height: 20%;
-    box-shadow: 1px 1px 25px black;
-    transform: translate(105.8%, -133%);
+    margin-bottom: 50px;
+    width: 73vw;
+    height: 50vw;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
+    transform: translate(10px, -70px);
 }
 
 #imgmulher {
-    background-color: white;
-    border-radius: 10px 0px 0px 10px;
-    margin: 10px;
-    width: 40%;
-    height: 20%;
-    box-shadow: 1px 1px 25px black;
-    transform: translate(9.9%, -22.3%);
+    background-color: rgba(255, 255, 255, 0.589);
+    border-radius: 0px 10px 10px 0px;
+    width: 48%;
+    height: 100%;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
+    transform: translate(0%, 0%);
 }
 
 #paragrafo1 {
-    font-size: 50%;
-    padding: 5%;
-    color: rgb(0, 0, 0);
+    font-size: 70%;
+    color: rgb(37, 26, 0);
     text-align: justify;
+    padding-left: 60%;
     text-indent: 1em;
-    transform: translate(0%, 0%);
+    transform: translate(-6%, -215px);
 }
-
-.artigo2 {
-    background-color: rgba(255, 255, 255, 0.722);
-    border-radius: 0px 10px 10px 0px;
-    width: 45%;
-    height: 20%;
-    box-shadow: 1px 1px 25px black;
-    transform: translate(105.8%, -226%);
-}
-
-#imgmulher2 {
-    background-color: white;
-    border-radius: 10px 0px 0px 10px;
-    margin: 10px;
-    width: 40%;
-    height: 20%;
-    box-shadow: 1px 1px 25px black;
-    transform: translate(9.9%, -22.3%);
-}
-
-#paragrafo2 {
-    font-size: 50%;
-    padding: 5%;
-    color: rgb(0, 0, 0);
-    text-align: justify;
-    text-indent: 1em;
-    transform: translate(0%, 0%);
-}
-
-#div2 {
-    transform: translate(0%, -30%);
-}
-
-
-
 
