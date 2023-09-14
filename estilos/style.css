@@ -39,7 +39,7 @@ section.logo{
 }
 
 .artigo {
-    background-color: rgba(255, 235, 12, 0.56);
+    background-color: #F2B705;
     border-radius: 0px 10px 10px 0px;
     margin-bottom: 50px;
     width: 73vw;
@@ -49,7 +49,7 @@ section.logo{
 }
 
 #imgmulher {
-    background-color: rgb(255, 255, 255), 255);
+    background-color: rgb(255, 255, 255);
     border-radius: 0px 10px 10px 0px;
     width: 48%;
     height: 100%;
@@ -67,7 +67,7 @@ section.logo{
 }
 
 .artigo2 {
-    background-color: rgba(255, 235, 12, 0.56);
+    background-color: #fc4635;
     border-radius: 10px 0px 0px 10px;
     width: 73vw;
     height: 30vw;
@@ -96,7 +96,7 @@ section.logo{
 section#redes-sociais {
   text-align: center;
   display: inline-flex;
-  transform: translate(45%, 45%);
+  transform: translate(55%, 45%);
   }
 
 section#redes-sociais img {
