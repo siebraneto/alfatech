@@ -33,9 +33,9 @@ section.logo{
 #logotipo {
     padding-top: 25px;
     padding-bottom: 20px;
-    width: 50%;
-    height: 50%;
-    transform: translate(50%, -35%);
+    width: 100%;
+    height: 100%;
+    transform: translate(0%, -35%);
 }
 
 .artigo {
@@ -43,7 +43,7 @@ section.logo{
     border-radius: 0px 10px 10px 0px;
     margin-bottom: 50px;
     width: 73vw;
-    height: 50vw;
+    height: 30vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
     transform: translate(7px, 10px);
 }
@@ -63,14 +63,14 @@ section.logo{
     text-align: justify;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-6%, -160px);
+    transform: translate(-6%, -110px);
 }
 
 .artigo2 {
     background-color: rgba(255, 235, 12, 0.56);
     border-radius: 10px 0px 0px 10px;
     width: 73vw;
-    height: 50vw;
+    height: 30vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
     transform: translate(7px, -15px);
 }
@@ -90,22 +90,22 @@ section.logo{
     text-align: justify;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-54%, -160px);
+    transform: translate(-54%, -110px);
 }
 
 .slider {
     overflow: hidden;
-    width: 75vw;
+    width: 120vw;
     height: 35vh;
     position: relative;
-    transform: translate(0px, -20px);
+    transform: translate(-130px, -20px);
   }
   
 .slider .slide {
     position: absolute;
     top: 0;
     left: 0;
-    width: 75vw;
+    width: 120vw;
     height: 35vh;
     background-size: cover;
     background-position: center;
