@@ -45,7 +45,7 @@ section.logo{
     width: 73vw;
     height: 30vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, 10px);
+    transform: translate(7px, 55px);
 }
 
 #imgmulher {
@@ -72,7 +72,7 @@ section.logo{
     width: 73vw;
     height: 30vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -15px);
+    transform: translate(7px, 30px);
 }
 
 #imgmulher2 {
@@ -98,7 +98,7 @@ section.logo{
     width: 120vw;
     height: 35vh;
     position: relative;
-    transform: translate(-150px, 5px);
+    transform: translate(-150px, 15px);
   }
   
 .slider .slide {
