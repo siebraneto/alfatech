@@ -72,7 +72,7 @@ section.logo{
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -40px);
+    transform: translate(7px, -45px);
 }
 
 #imgmulher2 {
@@ -98,7 +98,7 @@ section.logo{
     width: 75vw;
     height: 20vh;
     position: relative;
-    transform: translate(0px, -10px);
+    transform: translate(0px, -5px);
   }
   
 .slider .slide {
