@@ -94,7 +94,7 @@ section.logo{
 }
 
 section#redes-sociais {
-  text-align: right;
+  text-align: center;
   display: inline-flex;
   transform: translate(-45%, 45%);
   }
