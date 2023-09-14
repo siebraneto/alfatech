@@ -60,10 +60,10 @@ section.logo{
 #paragrafo1 {
     font-size: 15px;
     color: rgb(37, 26, 0);
-    text-align: justify;
+    text-align: center;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-6%, -110px);
+    transform: translate(-6%, -95px);
 }
 
 .artigo2 {
@@ -87,10 +87,10 @@ section.logo{
 #paragrafo2 {
     font-size: 15px;
     color: rgb(37, 26, 0);
-    text-align: justify;
+    text-align: center;
     padding-left: 60%;
     text-indent: 1em;
-    transform: translate(-50%, -110px);
+    transform: translate(-55%, -95px);
 }
 
 .slider {
