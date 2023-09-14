@@ -32,6 +32,7 @@ section.logo{
 
 #logotipo {
     padding-top: 25px;
+    padding-bottom: 20px;
     width: 50%;
     height: 50%;
     transform: translate(50%, -35%);
@@ -44,7 +45,7 @@ section.logo{
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, 0px);
+    transform: translate(7px, 10px);
 }
 
 #imgmulher {
@@ -68,11 +69,10 @@ section.logo{
 .artigo2 {
     background-color: rgba(255, 235, 12, 0.56);
     border-radius: 10px 0px 0px 10px;
-    margin-bottom: 50px;
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -45px);
+    transform: translate(7px, -15px);
 }
 
 #imgmulher2 {
@@ -96,9 +96,9 @@ section.logo{
 .slider {
     overflow: hidden;
     width: 75vw;
-    height: 20vh;
+    height: 35vh;
     position: relative;
-    transform: translate(0px, -5px);
+    transform: translate(0px, -20px);
   }
   
 .slider .slide {
@@ -106,7 +106,7 @@ section.logo{
     top: 0;
     left: 0;
     width: 75vw;
-    height: 20vh;
+    height: 35vh;
     background-size: cover;
     background-position: center;
     animation: slide 10s infinite;
