@@ -96,7 +96,7 @@ section.logo{
 section#redes-sociais {
   text-align: right;
   display: inline-flex;
-  transform: translate(90%);
+  transform: translate(70%, 20%);
 }
 
 section#redes-sociais img {
