@@ -95,17 +95,17 @@ section.logo{
 
 .slider {
     overflow: hidden;
-    width: 1000px;
+    width: 1200px;
     height: 35vh;
     position: relative;
-    transform: translate(-110px, 35px);
+    transform: translate(-65px, 35px);
   }
   
 .slider .slide {
     position: absolute;
     top: 0;
     left: 0;
-    width: 1000px;
+    width: 1200px;
     height: 35vh;
     background-size: cover;
     background-position: center;
