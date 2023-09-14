@@ -30,7 +30,7 @@ main {
     padding-top: 25px;
     width: 50%;
     height: 50%;
-    transform: translate(50%, -30%);
+    transform: translate(50%, -35%);
 }
 
 .artigo {
@@ -40,7 +40,7 @@ main {
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -70px);
+    transform: translate(7px, 0px);
 }
 
 #imgmulher {
@@ -68,7 +68,7 @@ main {
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -70px);
+    transform: translate(7px, 0px);
 }
 
 #imgmulher2 {
@@ -92,8 +92,9 @@ main {
 .slider {
     overflow: hidden;
     width: 75vw;
-    height: 70vh;
+    height: 20vh;
     position: relative;
+    transform: translate(0px, -125px);
   }
   
 .slider .slide {
@@ -101,7 +102,7 @@ main {
     top: 0;
     left: 0;
     width: 75vw;
-    height: 50%;
+    height: 20vh;
     background-size: cover;
     background-position: center;
     animation: slide 10s infinite;
@@ -132,8 +133,8 @@ main {
     background-image: url('../imagens/mesa.jpg');
     animation-delay: -8s;
   }
-  
-  @keyframes slide {
+
+    @keyframes slide {
     0%, 15%, 100% {
       transform: translateX(0);
       animation-timing-function: ease;
