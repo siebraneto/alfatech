@@ -26,6 +26,10 @@ main {
     transform: translate(15%, 0%);
 }
 
+section.logo{
+  margin-bottom: -110px;
+}
+
 #logotipo {
     padding-top: 25px;
     width: 50%;
@@ -40,7 +44,7 @@ main {
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -90px);
+    transform: translate(7px, 0px);
 }
 
 #imgmulher {
@@ -68,7 +72,7 @@ main {
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -130px);
+    transform: translate(7px, -40px);
 }
 
 #imgmulher2 {
@@ -94,7 +98,7 @@ main {
     width: 75vw;
     height: 20vh;
     position: relative;
-    transform: translate(0px, -110px);
+    transform: translate(0px, -10px);
   }
   
 .slider .slide {
