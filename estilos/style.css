@@ -40,7 +40,7 @@ main {
     width: 73vw;
     height: 50vw;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.539);
-    transform: translate(7px, -100px);
+    transform: translate(7px, -90px);
 }
 
 #imgmulher {
@@ -94,7 +94,7 @@ main {
     width: 75vw;
     height: 20vh;
     position: relative;
-    transform: translate(0px, -125px);
+    transform: translate(0px, -110px);
   }
   
 .slider .slide {
